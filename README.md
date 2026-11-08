@@ -1,0 +1,3 @@
+# Project "Machine Learning for Regime-Switching Financial Models"
+
+[TODO]здесь будет описание...
